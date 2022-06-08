@@ -6,7 +6,6 @@
 // });
 
 // sequence.then((v) => console.log(v));
-// sequence.then((v) => console.log(v));
 
 // const sequence = (function* iteratorFn() {
 //   let item = 1;
